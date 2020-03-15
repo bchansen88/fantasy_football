@@ -1,0 +1,8 @@
+# ignore these folders
+__pycache__/
+raw_data/
+venv/
+
+#ignore these files
+*.csv
+*.xlsx
